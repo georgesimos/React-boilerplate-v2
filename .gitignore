@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+.env.development
+.env.test
+
+# .vscode
+.vscode
+
+# public folder
+public/dist
